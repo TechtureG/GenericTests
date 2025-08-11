@@ -1,0 +1,10 @@
+Week's 19 topics include:
+
+5CM507_Lecture_13: Meshes and Resources
+5CM507_Part2_Week5_Tutorial: ASSIMP
+ASSIMP Code: Week5_Files.zip
+Models: BiPlane.zip, BiPlane_SeparateProp.zip
+Tutorial: Texturing_Changes.pdf
+
+Code Tutorial for Week 4: Code_Tutorial_PII_W4c_EN_v3.pdf
+Code Examples: Exercise_04_3-Texture_Files.zip, Exercise_04_3.zip
