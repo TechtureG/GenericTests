@@ -1,0 +1,6 @@
+Week's 14 topics include:
+
+5CM507_Lecture_11: Introduction to DirectX (extended)
+5CM507_Part2_Week1_Tutorial: Exercises 1, 2 and 3
+5CM507_Part2_Week1_Examples: DeviceDetectionWithoutComPtr, DeviceDetectionWithComPtr, DirectX_Base, DirectX_Cube_Wireframe
+
