@@ -1,0 +1,9 @@
+Week's 17 topics include:
+
+5CM507_Lecture_12: Scene Graphs
+5CM507_Part2_Week4_Tutorial: Scene Graph
+Code Example: DirectXFramework.zip
+Code Example: DirectX_Geometric_Week3.zip
+Code Tutorial for Week 2: Code_Tutorial_PII_W2_EN_v2.pdf 
+
+
