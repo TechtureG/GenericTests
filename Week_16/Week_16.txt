@@ -1,0 +1,8 @@
+Week's 16 topics include:
+
+5CM507_Part2_Week3_Tutorial: Lighting
+Code Example: DirectX_Cube_Week3.zip
+Code Example: DirectX_Week2_Solution.zip
+Code Example: GeometricObjects.zip
+Code Tutorial for Week 1: Code_Tutorial_PII_W1_EN_v2.pdf 
+
