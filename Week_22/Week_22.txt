@@ -1,0 +1,8 @@
+Week's 22 topics include:
+
+5CM507_Lecture_16: Pixel Shaders and Blending Techniques
+5CM507_Part2_Week8_Tutorial: Pixel Shaders and Terrain Blending
+Blending Code: Week8_Files.zip
+
+Code Tutorial for Week 7: Code_Tutorial_PII_W7_EN_v1.pdf
+Code Examples: Exercise_07_Files.zip

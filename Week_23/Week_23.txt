@@ -1,0 +1,12 @@
+Week's 23 topics include:
+
+5CM507_Lecture_17: Sky Domes, Fog, and Getting the Height of Terrain
+5CM507_Lecture_18: Collision Detection
+5CM507_Part2_Week9_Tutorial: Sky box, fog and height of terrain
+Sky Box Code: Week9_Files.zip
+
+Code Tutorial for Week 8: Code_Tutorial_PII_W8_EN_v5.pdf
+Code Examples: Exercise_08_Files.zip
+
+Code Tutorial for Week 8: Code_Tutorial_PII_W9_EN_v4.pdf
+Code Examples: Exercise_09_Files.zip
