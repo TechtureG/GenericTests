@@ -1,0 +1,5 @@
+Week's 15 topics include:
+
+5CM507_Part2_Week2_Tutorial: Backface Culling, Shading
+Code Example: DirectX_Cube_Week2
+
